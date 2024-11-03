@@ -1,0 +1,1 @@
+CREATE DATABASE hirewise_db;
